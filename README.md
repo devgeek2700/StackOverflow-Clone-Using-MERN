@@ -20,7 +20,7 @@ Make sure you have the following software installed on your machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/stackoverflow-clone.git
+   git clone https://github.com/devgeek2700/StackOverflow-Clone-Using-MERN.git
    cd stackoverflow-clone
    ```
 
