@@ -87,19 +87,43 @@ https://stackoverflow-clone-mern.onrender.com
 
 ## Homepage 
 
-![App Screenshot](https://github.com/devgeek2700/News-Post-using-HN-Search-API/blob/master/Ouput/1f.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/StackOverflow-Clone-Using-MERN/blob/master/src/assets/Outputs/1.png?raw=true)
 
-## Search Results
+## Login Page
 
-![App Screenshot](https://github.com/devgeek2700/News-Post-using-HN-Search-API/blob/master/Ouput/2.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/StackOverflow-Clone-Using-MERN/blob/master/src/assets/Outputs/2.png?raw=true)
 
-## Post Details
+## Sign Up Page
 
-![App Screenshot](https://github.com/devgeek2700/News-Post-using-HN-Search-API/blob/master/Ouput/31.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/StackOverflow-Clone-Using-MERN/blob/master/src/assets/Outputs/3.png?raw=true)
 
-## Remove Post
+## Ask Question and Details
 
-![App Screenshot](https://github.com/devgeek2700/News-Post-using-HN-Search-API/blob/master/Ouput/4.png?raw=true)
+![App Screenshot](https://github.com/devgeek2700/StackOverflow-Clone-Using-MERN/blob/master/src/assets/Outputs/4.png?raw=true)
+
+## Post Question
+
+![App Screenshot](https://github.com/devgeek2700/StackOverflow-Clone-Using-MERN/blob/master/src/assets/Outputs/5.png?raw=true)
+
+## Post Answer
+
+![App Screenshot](https://github.com/devgeek2700/StackOverflow-Clone-Using-MERN/blob/master/src/assets/Outputs/6.png?raw=true)
+
+## Tags Pages
+
+![App Screenshot](https://github.com/devgeek2700/StackOverflow-Clone-Using-MERN/blob/master/src/assets/Outputs/7.png?raw=true)
+
+## Update User Profile 
+
+![App Screenshot](https://github.com/devgeek2700/StackOverflow-Clone-Using-MERN/blob/master/src/assets/Outputs/8.png?raw=true)
+
+## Users Page
+
+![App Screenshot](https://github.com/devgeek2700/StackOverflow-Clone-Using-MERN/blob/master/src/assets/Outputs/9.png?raw=true)
+
+## Delete Answer
+![App Screenshot](https://github.com/devgeek2700/StackOverflow-Clone-Using-MERN/blob/master/src/assets/Outputs/10.png?raw=true)
+
 
 ## Contributing
 
