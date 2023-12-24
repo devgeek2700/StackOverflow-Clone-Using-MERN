@@ -4,25 +4,12 @@
 Stack Overflow is a popular online community and question-and-answer (Q&A) platform that focuses on programming and software development topics. The platform allows developers to ask questions, provide answers, and engage in discussions related to various programming and technical issues.
 
 ## Key Features
-
-# Post Question
-- Users can submit programming or technical questions for community assistance.
-
-  # Post Answer
-- Users can provide solutions or explanations by answering questions posted by others.
-
-# Delete Question
-- Users can remove their own questions if they no longer need assistance or find a solution.
-
-# Delete Answer
-- Users can delete their answers, useful for correcting mistakes or updating information.
-
-# Update User Profile
-- Users can edit and enhance their profiles, showcasing their skills and experience.
-
-
-# Vote Question
-- Users can express approval (upvote) or disapproval (downvote) for questions based on quality.
+- Post Question:  Users can submit programming or technical questions for community assistance.
+- Post Answer: Users can provide solutions or explanations by answering questions posted by others.
+- Delete Question: Users can remove their own questions if they no longer need assistance or find a solution.
+- Delete Answer: Users can delete their answers, useful for correcting mistakes or updating information.
+- Update User Profile: Users can edit and enhance their profiles, showcasing their skills and experience.
+- Vote Question: Users can express approval (upvote) or disapproval (downvote) for questions based on quality.
 
 
 ## Prerequisites
