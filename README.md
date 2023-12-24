@@ -79,6 +79,28 @@ Feel free to explore and modify the code as needed.
 
 Visit `http://localhost:3000` in your browser to see the StackOverflow Clone in action!
 
+## LIVE Projects
+
+https://stackoverflow-clone-mern.onrender.com
+
+## Screenshot
+
+## Homepage 
+
+![App Screenshot](https://github.com/devgeek2700/News-Post-using-HN-Search-API/blob/master/Ouput/1f.png?raw=true)
+
+## Search Results
+
+![App Screenshot](https://github.com/devgeek2700/News-Post-using-HN-Search-API/blob/master/Ouput/2.png?raw=true)
+
+## Post Details
+
+![App Screenshot](https://github.com/devgeek2700/News-Post-using-HN-Search-API/blob/master/Ouput/31.png?raw=true)
+
+## Remove Post
+
+![App Screenshot](https://github.com/devgeek2700/News-Post-using-HN-Search-API/blob/master/Ouput/4.png?raw=true)
+
 ## Contributing
 
 Feel free to contribute to this project by opening issues or creating pull requests. Your feedback and contributions are highly appreciated.
